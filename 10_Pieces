@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <!-- Style Css -->
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+    <title>10 PIECES</title>
+  </head>
+  <body>
+<!-- Navbar -->
+<nav class="navbar navbar-expand-lg  navbar-dark bg-dark">
+  <a class="navbar-brand" href="#"></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+    <div class="navbar-nav" style="font-size:22px;">
+      <a class="nav-item nav-link" href="index.html">Home</a>
+      <a class="nav-item nav-link" href="portfolio.html">Portfolio</a>
+      <a class="nav-item nav-link" href="10_Pieces.html">10 PIECES <span class="sr-only">(current)</span></a>
+    </div>
+  </div>
+</nav>
+<!--End NavBar-->
+
+    <br><br>
+
+<div id="Description">
+<article class="Description">
+<center>
+  <h1>Description</h1>
+  <br>
+  <p style="font-size:22px;">
+A computer is more than a number-crunching box of components, it is a gateway to more things than imaginable.  The computer is a "gateway" to many things.  It is a gateway to long-distance communication with people from all over the world, to games that bring friends together by virtually destroying each other, to create, and many more possibilities. To create is my favorite "gateway", there is so much you can create. You can create applications to help people, games to bring people together, animations to tell stories, and so much more.</p>
+</center>
+</article>
+
+<article class="Description">
+<center>
+  <h1>Definition</h1>
+  <br>
+  <p style="font-size:22px;">I think that family for a Christian is your brothers and sisters in Christ. The people that a Christian is the closest to should be their fellow brethren in Jesus Christ. A believing family is a two-fold blessing as you can be close to them in relation and in Christ. It is no greater blessing than to be part of a Christian family with two loving parents and even siblings. In a sermon series about a year ago, Pastor John Street in his fellowship group, Joint Heirs gave five purposes for the family: [The family is the] Antidote to loneliness, The husband and wife is the primary relationship, [the family is] a place where people are to be honored, [the family is] a classroom where the most important lessons in life are taught and learned, and [the family is] a place of refuge in times of stormy weather in life (Street). Having a Christian family is a blessing in that you have a family that you can be closest to and you are also the same in wanting to please and honor Christ. Family is one of the most important institutions.
+</p>
+</center>
+</article>
+
+
+<article class="Description">
+<center>
+  <h1>Literacy Narrative</h1>
+  <br>
+<p style="font-size:22px;">
+  When I was in first grade and going to Legacy Christian academy's homeschool program, I remember I loved to read, although I was just learning. I read everything that I could get my hands on. Around the end of first grade, I could read even what the "Big" third graders read. My mom was a patient and kind teacher. Since I was her only school-age child at the time, she could spend hours slowly teaching me the fundamentals of reading. Soon I was reading on my own, always books meant for several grades above my own.  In third grade, I finished all of the books in the elementary library at Legacy. I love to read because I get to meet new characters who's lives are always full of adventure, wonders, unknowns, and almost always have a happy ending. People in my life have told me to slow down in reading because they think I will enjoy it more, but the faster I go, the more it feels like real-time talking in my head. I can read about one hundred pages an hour of a fiction or "fluff" book, as my dad calls it. I have read thousands of books and am now running out.  Sometimes it takes me more time to research and find a good book than reading it.  Recently due to running out of fiction books, as far as I know, I have moved to non-fiction.  Non-fiction has a bit of a different allure. In Non-fiction, you don't meet magical characters living charmed lives that always turn out for the better.  Non-fiction is about real people's hardships, discoveries, or the most crucial person in our lives, Jesus.  
+</p>
+</center>
+</article>
+
+
+<article class="Description">
+<center>
+  <h1>Memoir</h1>
+  <br>
+  <p style="font-size:22px;">
+  	I haven't had a whole lot of pivotal points in my life. One of my best memories is going to a Dodger game with my grandfather for my birthday. I had so much fun. The hot dogs were massive, and it was the best thing I had ever tasted. Our seats were great, and it was the largest place I had ever been to. Another great memory I have is when my robotics team was in the top one hundred in the United States that year (FLL). It felt great when my team got so far. I did much of the work as I was the only programmer. My most recent significant accomplishment was getting the project of the month on Juni Learning when I programmed my Discord Bot in the Python programming language. 
+  </p><p style="font-size: 22px">
+	The most pivotal point in my life, I think, was when my grandfather died in December of 2014; I had never been so sad in my entire life and still haven't since then. I saw my grandfather every week when we went to church with them for as long as I could remember. Before going to my grandfather's funeral and memorial, I had never been to one; it was the first time that someone I even knew died. The most pivotal point in my life was my grandfather's death, and I hope that I will see him again in heaven one day.  My family still takes my grandmother to church every Sunday.  
+</p>
+</center>
+</article>
+</div>
+
+<article class="Description">
+<center>
+  <h1>Compare/Contrast</h1>
+  <br>
+  <p style="font-size:22px;">
+</p>
+</center>
+</article>
+</div>
+
+<article class="Description">
+<center>
+  <h1>Cause/Effect</h1>
+  <br>
+  <p style="font-size:22px;">
+</p>
+</center>
+</article>
+</div>
+
+
+<article class="Description">
+<center>
+  <h1>Process/Analysis: Creating a Minecraft Server</h1>
+  <br>
+  <p style="font-size:22px;">
+  	To create a Minecraft server, you must follow these simple steps carefully. Step one, download required resources from the Java website, download Java 8, and download the Minecraft server Jar file from the Minecraft website.  Step two, setup install Java 8, create a folder to store your Minecraft server, and put the Minecraft Server Jar in the folder.  Step three, EULA double click on the Minecraft server Jar in your Minecraft server folder, wait until the Jar opens then closes again.  There should be several new files, one of which should be called EULA.txt, open EULA.txt, and change EULA=false to EULA=true.  Step four, generation double click the Minecraft server Jar file again, now you must wait for Minecraft to download and install all of the files it depends on and generate your Minecraft world. Step Five, finding IP to join your Minecraft server, you must find out your IP. To do so, open cmd and type in "ipconfig" then press enter, look for a number that starts with "192.168." write down the whole number.  Step six Joining now, anyone on your internet may open Minecraft, go to Multiplayer, and type in the number you wrote down in step five and press join. Congratulations, you just fully set up the most basic type of Minecraft server.
+</p>
+<p style="font-size: 22px;">
+	There are many other things that you can do, including adding modifications to your server, more commonly known as Mods.  To do this, instead of downloading the Minecraft Server Jar from the Minecraft website, you download the installer from the Minecraft Forge website. Open the Forge installer and install both the server in the folder that you created and on the client version of Minecraft, the client version is the one you play on. Instead of opening the "minecraft_server.jar," you open the "forge-VERSION.jar."  Forge will create a folder called Mods in the Mods folder, and you can put all of your modifications in that folder.  Close the Forge jar.  You can download any mods that you want from the Curseforge website.  You must copy the mods to both the server folder and the client folder.  You can get to the client folder by first opening the File Explorer and type in %appdata% into the address bar.  Open the ".Minecraft" folder and create a folder called "mods" if it doesn't already exist. You can now open the Forge jar again. Now open Minecraft and click the dropdown in the bottom left corner and select forge.  Now click play and then follow the same steps for joining.	
+</p>
+</center>
+</article>
+</div>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  </body>
+</html>
