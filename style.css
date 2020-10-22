@@ -4,3 +4,7 @@
 	background-color: lightgray;
 
 }
+
+.table-height td {
+  height: 300px;
+}
