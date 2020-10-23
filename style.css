@@ -12,3 +12,15 @@
 .grid-container {
   display: grid;
 }
+
+
+.resume {
+	float: right;
+	width: 50%;
+}
+
+.cover {
+	float: left;
+	width: 50%;
+
+}
