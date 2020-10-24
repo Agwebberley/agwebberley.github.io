@@ -24,3 +24,21 @@
 	width: 50%;
 
 }
+
+.q {
+float: left;
+width: 33%;
+
+}
+
+.w {
+float: center;
+width: 33%;
+
+}
+
+.e {
+float: right;
+width: 33%;
+
+}
